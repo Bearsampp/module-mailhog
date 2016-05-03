@@ -1,7 +1,7 @@
 # Changelog
 
-## r1 (2016/05/01)
+### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/binMailHog#latest) before downloading.
 
-This release works since **[Neard 1.0.19](https://github.com/crazy-max/neard/releases/tag/v1.0.19)**
+## r1 (2016/05/01)
 
 * New bundle : 0.2.0
