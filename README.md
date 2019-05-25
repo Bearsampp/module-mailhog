@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving Ma
 
 ## Documentation and downloads
 
-http://neard.io/modules/mailhog
+https://neard.io/modules/mailhog
 
 ## Issues
 
