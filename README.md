@@ -1,12 +1,12 @@
-[![GitHub release](https://img.shields.io/github/release/neard/module-mailhog.svg?style=flat-square)](https://github.com/neard/module-mailhog/releases/latest)
-![Total downloads](https://img.shields.io/github/downloads/neard/module-mailhog/total.svg?style=flat-square)
+[![GitHub release](https://img.shields.io/github/release/bearsampp/module-mailhog.svg?style=flat-square)](https://github.com/bearsampp/module-mailhog/releases/latest)
+![Total downloads](https://img.shields.io/github/downloads/bearsampp/module-mailhog/total.svg?style=flat-square)
 
-This is a module of [Neard project](https://github.com/neard/neard) involving MailHog.
+This is a module of [Bearsampp project](https://github.com/bearsampp/bearsampp) involving MailHog.
 
 ## Documentation and downloads
 
-https://neard.io/modules/mailhog
+https://bearsampp.github.io/modules/mailhog
 
 ## Issues
 
-Issues must be reported on [Neard repository](https://github.com/neard/neard/issues).
+Issues must be reported on [Bearsampp repository](https://github.com/bearsampp/bearsampp/issues).
